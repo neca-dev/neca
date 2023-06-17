@@ -1,2 +1,2 @@
-# neca
-Files and Network Utilities CLI
+# Neca
+AI in your terminal

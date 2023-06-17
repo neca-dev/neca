@@ -1,0 +1,16 @@
+[package]
+name = "neca"
+version = "0.0.1"
+edition = "2021"
+authors = ["Sergii Onufriienko <sergey@onufrienko.com>"]
+license = "MIT OR Apache-2.0"
+description = "AI in terminal"
+readme = "README.md"
+homepage = "https://neca.dev"
+repository = "https://github.com/neca-dev/neca"
+keywords = ["cli", "ai"]
+categories = ["command-line-utilities"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
